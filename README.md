@@ -1,4 +1,4 @@
-# demo
-this is my first git repository.
+# StonePaperScissors Game
+this is my git repository.
 <br>
 Author - priyanshu yadav
